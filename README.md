@@ -14,6 +14,7 @@ Built using **HTML** and **CSS**, it features a clean, modern design with easy n
 - HTML5
 - CSS3
 
-## How to View
-1. Clone this repository:
-   git clone https://github.com/TahreenKhanam7/Personal-Portfolio.git
+## How to use
+-Go to
+   https://tahreenkhanam7.github.io/Personal-Portfolio/
+Check Out My Portfolio
